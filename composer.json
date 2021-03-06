@@ -1,0 +1,21 @@
+{
+    "name": "vendor/clog",
+    "description": "log the php object into the browser log",
+    "type": "library",
+    "require": {
+        "php": "7"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Keroles Monsef",
+            "email": "kerolesmonsef@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "KeroCLog\\": "src"
+        }
+    }
+}

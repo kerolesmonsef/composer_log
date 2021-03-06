@@ -1,5 +1,5 @@
 {
-    "name": "vendor/clog",
+    "name": "keroles/clog",
     "description": "log the php object into the browser log",
     "type": "library",
     "require": {

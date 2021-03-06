@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3acfbd5-7bb2-4ee8-865a-c12803a975f6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/helpers.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
     </list>
@@ -50,7 +52,7 @@
       <updated>1614964703042</updated>
       <workItem from="1614964711511" duration="4937000" />
       <workItem from="1615013133195" duration="21000" />
-      <workItem from="1615013195404" duration="2605000" />
+      <workItem from="1615013195404" duration="5638000" />
     </task>
     <servers />
   </component>
@@ -62,9 +64,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1615014613353" />
-    <state x="518" y="295" key="NewPhpFileDialog" timestamp="1614965794114">
+    <state x="518" y="295" key="NewPhpFileDialog" timestamp="1615020433686">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="518" y="295" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1614965794114" />
+    <state x="518" y="295" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1615020433686" />
   </component>
 </project>

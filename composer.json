@@ -12,7 +12,7 @@
         }
     ],
     "minimum-stability": "dev",
-    "autoload": {
+    "autodload": {d
         "psr-4": {
             "KeroCLog\\": "src"
         },
